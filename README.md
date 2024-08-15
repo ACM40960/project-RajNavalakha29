@@ -17,4 +17,5 @@ Extracted a dataset of 1600 food images from 30 unique hashtags related to food.
 3. Comments_count
 4. caption
 5. followers - No of Followers a particular account has (of that particular image)
-###  
+###  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python%203.14)
+
