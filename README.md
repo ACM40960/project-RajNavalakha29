@@ -7,5 +7,14 @@ One of the most important factors affecting user engagement on social networking
 2. SVR - Support Vector Regression
 3. Gradient Boost
 4. MLP - Multi-Layer Perceptron
+
 With the help of the above machine learning and deep learning models we were able to rectify the accuracy of all the  models to predict the engagement dynamics of the each image of the dataset. Along with the relevant python libraries **Torch, Seaborn and Tensorflow** have also been used to implement the mentioned models.
 ### Dataset
+Extracted a dataset of 1600 food images from 30 unique hashtags related to food. These images were extracted from instagram itself with a configuration the HAR file. It contains various insightful columns such as :-
+
+1. Shortcode - Every image has its own shortcode.
+2. Likes_count
+3. Comments_count
+4. caption
+5. followers - No of Followers a particular account has (of that particular image)
+###  
