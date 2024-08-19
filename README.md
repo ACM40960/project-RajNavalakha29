@@ -1,6 +1,6 @@
 [![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) ![Static Badge](https://img.shields.io/badge/VSCode-blue)  ![Static Badge](https://img.shields.io/badge/Figma-black?logo=Figma)
 
-
+[Raj Navalakha - 23205373](https://github.com/RajNavalakha29)
 
 ## Image Aesthetics impact on Social Media Engagement
 The repository explores various methodologies and technologies that contribute to the exploration if image aesthetics affect the engagement of the photo on social media.  
