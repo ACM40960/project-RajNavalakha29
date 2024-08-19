@@ -1,3 +1,7 @@
+[![python](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) ![Static Badge](https://img.shields.io/badge/VSCode-blue)  ![Static Badge](https://img.shields.io/badge/Figma-black?logo=Figma)
+
+
+
 ## Image Aesthetics impact on Social Media Engagement
 The repository explores various methodologies and technologies that contribute to the exploration if image aesthetics affect the engagement of the photo on social media.  
 ### Description
@@ -17,5 +21,4 @@ Extracted a dataset of 1600 food images. These images were extracted from instag
 2. Likes_count
 3. Comments_count
 4. caption
-###  ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python%203.14)
 
